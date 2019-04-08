@@ -1,3 +1,4 @@
+#This is a copy of Uyen Mai's TreeShrink v1.0.0. For a current version see [here](https://github.com/uym2/TreeShrink) 
 
 TreeShrink is an algorithm for detecting abnormally long branches in one or more phylogenetic trees. 
 
